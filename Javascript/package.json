@@ -1,0 +1,14 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "A Practice Repo For Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankur Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
